@@ -1,6 +1,6 @@
 -o
-"/Users/eligettlemanft/Desktop/First Robotics/Test/FirstRobotWithPhoenix/build/exe/frcUserProgram/release/frcUserProgram"
-"/Users/eligettlemanft/Desktop/First Robotics/Test/FirstRobotWithPhoenix/build/objs/frcUserProgram/release/frcUserProgramCpp/9760xtgdau9jsoxxi90ozrpww/Robot.o"
+"/Users/eligettlemanft/Desktop/First Robotics/Git/FirstRobot/build/exe/frcUserProgram/release/frcUserProgram"
+"/Users/eligettlemanft/Desktop/First Robotics/Git/FirstRobot/build/objs/frcUserProgram/release/frcUserProgramCpp/9760xtgdau9jsoxxi90ozrpww/Robot.o"
 /Users/eligettlemanft/.gradle/caches/transforms-2/files-2.1/b66837348ddbd47090387f38c62cba85/wpiapi-cpp-5.19.4-linuxathenastatic/linux/athena/static/libCTRE_Phoenix_WPI.a
 /Users/eligettlemanft/.gradle/caches/transforms-2/files-2.1/e58fbb3bd18bf8cfccf9568c5052a9e7/api-cpp-5.19.4-linuxathenastatic/linux/athena/static/libCTRE_Phoenix.a
 /Users/eligettlemanft/.gradle/caches/transforms-2/files-2.1/d54585e4885256219f4ad5de853077fb/cci-5.19.4-linuxathenastatic/linux/athena/static/libCTRE_PhoenixCCI.a

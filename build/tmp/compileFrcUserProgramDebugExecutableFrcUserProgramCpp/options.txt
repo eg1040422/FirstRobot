@@ -16,7 +16,7 @@ c++
 -g
 -nostdinc
 -I
-"/Users/eligettlemanft/Desktop/First Robotics/Test/FirstRobotWithPhoenix/src/main/include"
+"/Users/eligettlemanft/Desktop/First Robotics/Git/FirstRobot/src/main/include"
 -I
 /Users/eligettlemanft/.gradle/caches/transforms-2/files-2.1/df0364ad16410a3da6cf0d789ce2c158/wpilibOldCommands-cpp-2021.1.2-headers
 -I
